@@ -2,7 +2,10 @@
 name = "riwaq-types"
 version = "0.1.0"
 edition = "2021"
-
+description = "wasm runtime OS for web server"
+authors = ["Mohamed Dardouri <med@dardouri.com>"]
+license = "Apache-2.0"
+repository = "https://github.com/mahd-dev/riwaq-types.git"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
